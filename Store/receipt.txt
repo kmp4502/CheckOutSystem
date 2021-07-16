@@ -1,0 +1,17 @@
+****************************************
+*   CPT189 Super Selling Stuff Store   *
+****************************************
+
+Qty Description                 Total   
+--- --------------------------- --------
+  3 M KC Royals shirt           $  44.97
+  5 Bubble gumballs             $  24.95
+  5 Envelopes (100 count)       $  49.95
+100 M & Ms                      $ 149.50
+  3 2XL I <3 CS! shirt          $  44.97
+ 12 Staples (5000 count)        $  59.88
+
+Grand total: $374.22
+Items sold:  6
+
+* Thank you for shopping at out store! *
