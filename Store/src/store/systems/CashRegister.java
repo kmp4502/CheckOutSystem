@@ -45,6 +45,13 @@ public class CashRegister {
 		purchasedProducts.add(product); 
 		grandTotal += product.calcTotal();
 	}
+
+	public void subtractProduct(Product product) {
+		purchasedProducts.subtract(product);
+		grandTotal -= product.calcTotal();
+	}
+
+	//added a method to remove a product when at the cash register
 	
 	/**
 	 * Prints the receipt displaying all of the products and the calculated grand total.
